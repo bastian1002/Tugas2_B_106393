@@ -74,7 +74,7 @@ elif RestingECG == "ST":
 if ExerciseAngina == ["Y"]:
     input_anginaY = 1  
     input_anginaN = 0 
-else 
+else :
     input_anginaY = 0
     input_anginaN = 1
 
