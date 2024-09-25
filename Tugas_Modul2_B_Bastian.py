@@ -29,7 +29,7 @@ ST_Slope = st.selectbox("ST Slope", ["Down", "Flat", "Up"])
 if Sex == "F" :
     input_sex_F = 1 
     input_sex_M = 0
-elif Sex == "M" 
+elif Sex == "M" :
     input_sex_F = 0
     input_sex_M = 1 
 if ChestPainType == "ASY":
